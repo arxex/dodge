@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2C1E10F4-9112-4209-8CBD-BE14711E9ABE}|Play in Editor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HUD.cs">
+    <Files>
+      <File FileName="Player.cs" Line="84" Column="6" />
+      <File FileName="Mob.cs" />
+      <File FileName="Main.cs" />
+      <File FileName="HUD.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dodge" expanded="True">
+            <Node name="Dodge" expanded="True">
+              <Node name="HUD.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Dodge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/bin/ExportRelease/Dodge.dll
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/bin/ExportRelease/Dodge.pdb
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.csprojAssemblyReference.cache
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.AssemblyInfoInputs.cache
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.AssemblyInfo.cs
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.csproj.CoreCompileInputs.cache
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.dll
+/Users/marquel/Projects/Godot/Dodge/.mono/temp/obj/ExportRelease/Dodge.pdb
